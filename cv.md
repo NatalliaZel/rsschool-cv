@@ -37,3 +37,10 @@ newStart: for (let i = 2; i <= 10; i++) {
   console.log (i);
 }
 ```
+
+## Education
+
+- **University:** Belarusian National Technical University, manager-economist
+- **Courses:**
+  - [RS SCHOOL, course "JavaScript/Front-end. Stage 0"](https://app.rs.school/certificate/r28ci3wj)
+  - [TeachMeSkills, course "Front-end development"](https://teachmeskills.by/kursy/frontend-html-css-javascript-online)
